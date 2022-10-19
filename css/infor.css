@@ -85,7 +85,7 @@ body{
 	justify-content:center;
 	align-items:center;
 }
-.con-i1{
+.content-item-top{
 	width:156px;
 	height: 36px;
 	background-color: #FFFFFF;
@@ -94,7 +94,7 @@ body{
 	border-radius:8px;
 	border: 1px solid #DBDBDB;
 }
-.con-i2{
+.content-item-mid{
 	width:101px;
 	height: 36px;
 	background-color: #FFFFFF;
@@ -103,7 +103,7 @@ body{
 	border-radius:8px;
 	border: 1px solid #DBDBDB;
 }
-.con-i3{
+.content-item-down{
 	width:320px;
 	height: 120px;
 	color:#536166;
@@ -117,7 +117,7 @@ body{
 	justify-content:center;
 	align-items:center;
 }
-.next-i{
+.next-item{
 	width:320px;
 	height: 40px;
 	background-color:#16B9B3;

@@ -79,10 +79,7 @@ body{
 	text-align: center;
 	margin:24px 0 24px 0;
 }
-.ban-img{
-	width:196px;
-}
-.ban-p{
+.banner-p{
 	font-family: 'Noto Sans TC';
 	font-style: normal;
 	font-weight: 400;
@@ -99,7 +96,7 @@ body{
 	font-size: 16px;
 	line-height: 140%;
 }
-.con-i{
+.content-item{
 	width:320px;
 	height: 40px;
 	color:#536166;
@@ -113,7 +110,7 @@ body{
 	justify-content:center;
 	align-items:center;
 }
-.next-i1{
+.next-item-left{
 	width:152px;
 	height:40px;
 	background-color:#FFFFFF;
@@ -123,7 +120,7 @@ body{
 	box-shadow: 0px 4px 10px rgba(196, 194, 193, 0.4);
 	margin-right: 16px;
 }
-.next-i2{
+.next-item-right{
 	width:152px;
 	height:40px;
 	background-color:#16B9B3;

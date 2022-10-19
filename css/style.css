@@ -85,7 +85,7 @@ body{
 	justify-content:center;
 	align-items:center;
 }
-.con-i{
+.content-item{
 	width:320px;
 	height: 40px;
 	color:#536166;
@@ -99,7 +99,7 @@ body{
 	justify-content:center;
 	align-items:center;
 }
-.next-i{
+.next-item{
 	width:320px;
 	height: 40px;
 	background-color:#16B9B3;
