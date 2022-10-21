@@ -52,7 +52,7 @@ table {
 }
 
 body{
-    font-family: Microsoft JhengHei;
+    font-family:Microsoft JhengHei;
 }
 
 .wrap{
@@ -60,6 +60,7 @@ body{
 	width: 368px;
 	box-shadow: 0px 0px 20px rgba(38, 38, 38, 0.2);
     border-radius:16px 16px 16px 16px;
+	background: #F7F8FA;
 }
 
 .bar{
@@ -110,15 +111,30 @@ body{
 
 }
 .footer{
-	display: flex;
-	justify-content:flex-end;
-	align-items: center;
-	padding: 14px 32px 14px 0;
+	font-family: 'Noto Sans TC';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 140%;
+	padding: 14px 27px 14px 0;
 	color:#536166;
 	border-top:1px solid #DBDBDB;
 	margin-top:24px;
 }
-.user-icon{
-	padding-left:10.5px;
+.section{
+	display: flex;
+	justify-content:flex-end;
+	align-items: center;
+	padding:5px;
+	
 }
+.section:hover{
+	background-color:#DBDBDB ;
+	border-radius:4px;
+	margin-left:272px;
+}
+.user-icon{
+	padding-right:10.5px;
+}
+	
 	

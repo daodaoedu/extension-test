@@ -57,6 +57,7 @@ body{
 
 .wrap{
 	margin: 0 auto;
+	padding-bottom: 24px;;
 	width: 368px;
 	box-shadow: 0px 0px 20px rgba(38, 38, 38, 0.2);
     border-radius:16px 16px 16px 16px;
@@ -85,6 +86,7 @@ body{
 .banner-img{
 	width:197px;
 	height:176px;;
+
 }	
 .banner-p{
 	color:#536166;
@@ -108,37 +110,11 @@ body{
 .next-item{
 	width:320px;
 	height:40px;
-	background-color:#FFFFFF;
-	color:#1F4645;
+	background-color:#16B9B3;
+	color:#FFFF;
 	border-radius:20px;
 	border:#FFFFFF;
 	box-shadow: 0px 4px 10px rgba(196, 194, 193, 0.4);
 }
-.footer{
-	font-family: 'Noto Sans TC';
-	font-style: normal;
-	font-weight: 500;
-	font-size: 14px;
-	line-height: 140%;
-	padding: 14px 27px 14px 0;
-	color:#536166;
-	border-top:1px solid #DBDBDB;
-	margin-top:24px;
-}
-.section{
-	display: flex;
-	justify-content:flex-end;
-	align-items: center;
-	padding:5px;
-	
-}
-.section:hover{
-	background-color:#DBDBDB ;
-	border-radius:4px;
-	margin-left:272px;
-}
-.user-icon{
-	padding-right:10.5px;
-}
-	
+
 	
