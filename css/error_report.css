@@ -16,9 +16,16 @@ body{
 	background: #293A3D;
 	padding: 11px 0 11px 31px;
 	border-radius:16px 16px 0 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
-.bar img{
+.bar-img-top{
 	width:68px;
+}
+.bar-img-down{
+	width: 20px;
+	margin:0 21.76px 0 0;
 }
 
 .banner{
